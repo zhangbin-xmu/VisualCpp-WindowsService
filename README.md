@@ -1,2 +1,2 @@
-# .Net-WindowsService
+# VisualCpp-WindowsService
 Windows service demo.
